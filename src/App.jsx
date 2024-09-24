@@ -7,7 +7,7 @@ import MovieDetails from './MovieDetails/MovieDetails.jsx';
 import Login from './Login/Login.jsx';
 import Error from './Error.jsx';
 import NavbarComp from './Navbar/NavbarComp.jsx';
-import Profile from './Profile/profile.jsx';
+import Profile from './Profile/Profile.jsx';
 import Wishlist from './Wishlist/Wishlist.jsx';
 function App() {
   return(
