@@ -1,0 +1,10 @@
+.wishlist-card{
+    display: flex;
+    border: 3px outset black;
+    width: 500px;
+    height: 100px;
+    margin-bottom: 10px;
+}
+.wishlist-card.outset{
+    outline: dotted;
+}
