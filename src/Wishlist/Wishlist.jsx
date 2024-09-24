@@ -2,7 +2,7 @@ import React from 'react';
 import { useContext } from 'react';
 import { Link } from 'react-router-dom';
 import { useLocation } from 'react-router-dom';
-import './WishList.css';
+import './Wishlist.css';
 import { WishlistContext } from '../WishlistContext/WishlistContext';
 const Wishlist = () => {
   const location = useLocation();
